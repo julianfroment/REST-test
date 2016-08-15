@@ -1,2 +1,1 @@
-This is now an expanded test file for working on git.
-Now I have changed it a little.
+This is just a test file for git.
